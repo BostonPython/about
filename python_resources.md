@@ -3,16 +3,6 @@ title: Python Resources
 sidebar_link: false
 ---
 
-## Things to Read ##
-Python is an immensely popular language, and explaining python is an immensely popular
-activity. This section will attempt to guide you to the top-shelf stuff.
-- we might decide to separate readings from exercises. mostly this is here because Ned
-referred to the desire for a "Python Resources" page, which suggests at least readings 
-and exercises
-
-## Things To Watch (and listen to) ##
-This might also be a thing. 
-
 ## Things To Do ##
 It's often said that the best way to learn to write programs is to write programs. This page
 lists a number of places you can go for ideas about what programs to write next to develop
