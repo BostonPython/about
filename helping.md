@@ -8,51 +8,25 @@ Keeping Boston Python running requires lots of small jobs. If you take on one of
 
 ## Considerations
 
-Time: rough estimate of how much effort it will take.
+Time: roughly how much effort it will take?
 
-One-time or on-going: how big a commitment are you making.
+One-time or on-going: how big a commitment are you making?
 
 One person, or shared job: can this task be shared among a few people?
 
-Importance: how important is it that it get done? Critical/Casual
+Importance: is it critical that it get done, or is it more casual?
 
-In-person or at-home: where can you do the job?
+## Types of jobs
+
+- [Behind the scenes](#behind-the-scenes): Jobs that can be done at home, not tied to a specific event.
+
+- [Before events](#before-events): Jobs that can largely be done at home to prepare for presentation and project nights.
+
+- [At events](#at-events): Jobs to be done in-person at a specific presentation or project night.
+
+- [Other projects](#other-projects)
 
 ## Behind the scenes
-
-These are jobs that can be done without being at an event.
-
-### Pizza quartermaster - Ned
-
-On the day of an event, note how many people have RSVP’d yes, use the Beauty’s Pizza web site to order enough pizza in an interesting mix, pay with the Boston Python debit card.
-
-### Twitter-meister - Srini
-
-Run the @bostonpython Twitter account. Follow interesting people, tweet things. Announce events and sponsors.
-
-Time: 10min/day; On-going; Can be shared; Casual; At-home.
-
-### Sponsor wrangler - Brian
-
-Find pizza sponsors for events. Contact potential sponsors about how sponsorship works. Answer their questions. Arrange sponsors for specific events. Keep meetup.com sponsor list updated. Send thank you emails, be really grateful.
-
-### Jobs detective
-
-Search job postings for Python jobs in the Boston-area. Collect names and email addresses of people we can contact about sponsoring.
-
-Time: 1 hour/week; On-going; Can be shared; Casual; At-home.
-
-### Hosting wrangler - Mike
-
-Find companies to host our events. Reserve Microsoft NERD when it's available. Communicate with potential hosts about requirements. Evaluate potential spaces in person. Confirm dates for events, add to meetup.com.
-
-### Meadhall reserver - Ned
-
-Email with the Meadhall events person to reserve the private space for us after presentation nights. Check in with them the day before to be sure the reservation is in place.
-
-### Event list gatekeeper
-
-Keep track of other events people want us to announce to the group. Decide which events are appropriate for the list. Send the monthly email.
 
 ### Mailing list moderator - Ned
 
@@ -60,33 +34,43 @@ Get notified when someone emails the mailing list. Read the messages, decide if 
 
 ### Comment thread answerer
 
-Be aware of discussions happening on event pages. Answer questions. Make people feel like someone official is paying attention.
+Be aware of discussions happening on Meetup. Answer questions. Make people feel like someone official is paying attention.
 
 ### New-member greeter - Michelle
 
 When new members join the group, send them a personal email welcoming them. People answer questions when they join, it would be great to include details from those answers, and an encouragement to share their expertise (if they have claimed some!).
 
-Time: 30min/week; On-going; One person; Casual; At-home.
+30min/week; One person
+
+### Twitter tweeter - Srini
+
+Run the @bostonpython Twitter account. Follow interesting people, tweet things. Announce events and sponsors.
+
+10min/day; Can be shared
+
+### Jobs detective
+
+Search job postings for Python jobs in the Boston-area. Collect names and email addresses of people we can contact about sponsoring.
+
+1 hour/week; Can be shared
+
+### Event list gatekeeper
+
+Keep track of other events people want us to announce to the group. Send a monthly email with the ones that are appropriate.
 
 ### Public relations bullhorn
 
 Find places to publicize Boston Python events. Publicize them.
 
-Time: Varies; On-going; Can be shared; Casual; At-home.
-
 ### Onboarding polisher
 
 Play-test the experience for new members. Make sure we properly explain how Boston Python works so that they can get as much as possible from joining.
 
-Time: Varies; One-time; Can be shared; Casual; At-home.
+One-time; Can be shared
 
-### Puzzle crafter
+### Member pollster
 
-Project nights often have a set of puzzles for people to work on. Write or find some puzzles. Make them available for people to use.
-
-### Presentation night curator - Ned
-
-Choose a topic for just one presentation night. Find speakers who fit that topic. Nag them just enough to be sure they are ready for the night. This doesn’t have to be a repeating task, doing it for one night is a big help!
+Write a survey to find out what people want and what is on their minds. Collect results, summarize for everyone.
 
 ### Conference groupie
 
@@ -96,17 +80,37 @@ Monitor conferences happening around the world for likely Boston-area speakers t
 
 It would be amazing to have Boston Python t-shirts to sell. Find someone to design the shirt (or design it yourself). Work with enough leaders of the group to get approval of the design. Find a vendor with the right price/quality balance. Decide on the right quantity and mix of sizes to order. Deal with the vendor to get the shirts made.
 
-### Member pollster
+## Before events
 
-Write a survey to find out what people want and what is on their minds. Collect results, summarize for everyone.
+### Hosting wrangler - Mike
+
+Find companies to host our events. Reserve Microsoft NERD when it's available. Communicate with potential hosts about requirements. Evaluate potential spaces in person. Confirm dates for events, add to meetup.com.
+
+### Sponsor wrangler - Brian
+
+Find pizza sponsors for events. Contact potential sponsors about how sponsorship works. Answer their questions. Arrange sponsors for specific events. Keep the Meetup sponsor list updated. Send thank you emails, be really grateful.
+
+### Presentation night curator - Ned
+
+Choose a topic for just one presentation night. Find speakers who fit that topic. Nag them just enough to be sure they are ready for the night. This doesn’t have to be a repeating task, doing it for one night is a big help!
+
+### Bar reserver - Ned
+
+Email their events person to reserve space for us after presentation nights. Check in with them the day before to be sure the reservation is in place.
+
+### Pizza quartermaster - Ned
+
+On the day of an event, note how many people have RSVP’d yes, use the Beauty’s Pizza web site to order enough pizza in an interesting mix, pay with the Boston Python debit card.
+
+### Puzzle crafter
+
+Project nights often have a set of puzzles for people to work on. Write or find some puzzles. Make them available for people to use.
 
 ### Give-away rustler
 
 We sometimes have prizes to raffle away. Someone needs to arrange for those donations. Books are easy, you send an email to O’Reilly and they ship a box of books. But with more effort, we could probably get more stuff.
 
-## In-person
-
-These are jobs that are done at events.
+## At events
 
 ### Video director
 
@@ -124,15 +128,15 @@ A presentation night needs a few bits of time where someone stands at the front 
 
 A project night needs a little emceeing at the start: welcome people, explain how project night works, encourage people to announce what they are working on, introduce the sponsor, etc.
 
-### Give-away give-awayer
-
-On nights when we give away things, it helps to have someone at the front of the room to help people choose their prize.
-
 ### Event greeter
 
 People showing up to an evening event could probably use a friendly face to greet them. Stand near the entrance and be friendly! Tell people how to get started. Make them feel welcome. This can be a totally informal job. If you warmly greet just one apprehensive attendee, you’ve made a difference!
 
-## Other events/projects
+### Give-away give-awayer
+
+On nights when we give away things, it helps to have someone at the front of the room to help people choose their prize.
+
+## Other projects
 
 ### Workshop monarch
 
