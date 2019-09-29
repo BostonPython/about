@@ -1,10 +1,12 @@
 ---
-title: Helping out
+title: Helping Out
 sidebar_link: true
 sidebar_sort_order: 300
 ---
 
-Keeping Boston Python running requires lots of small jobs. If you take on one of these, it’s a big help to the organization. You can sign up for one of these and then move to doing something else later on. We really appreciate your help!
+Keeping Boston Python running requires lots of small jobs. If you take on one of these, it’s a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
+
+We really appreciate your help!
 
 ## Considerations
 
@@ -30,15 +32,15 @@ Importance: is it critical that it get done, or is it more casual?
 
 ### Mailing list moderator - Ned
 
-Get notified when someone emails the mailing list. Read the messages, decide if they are appropriate for the mailing list or not. If not appropriate, but close, write to the sender telling them what they need to do to get approved. Approve or deny the messages.
+Get notified when someone emails the mailing list. Read the messages, decide if they are appropriate or not. If not appropriate, but close, write to the sender telling them what they need to do to get approved. Approve or deny the messages.
 
-### Comment thread answerer
+### Discussion moderator
 
-Be aware of discussions happening on Meetup. Answer questions. Make people feel like someone official is paying attention.
+Be aware of discussions happening on Slack and Meetup. Answer questions, suggest proper usage, report inappropriate usage. Make people feel like someone official is paying attention.
 
 ### New-member greeter - Michelle
 
-When new members join the group, send them a personal email welcoming them. People answer questions when they join, it would be great to include details from those answers, and an encouragement to share their expertise (if they have claimed some!).
+When new members join Meetup or Slack, send them a personal message welcoming them. People answer questions when they join; it would be great to include details from those answers, and an encouragement to share their expertise (if they have claimed some).
 
 30min/week; One person
 
@@ -47,6 +49,14 @@ When new members join the group, send them a personal email welcoming them. Peop
 Run the @bostonpython Twitter account. Follow interesting people, tweet things. Announce events and sponsors.
 
 10min/day; Can be shared
+
+### Website contributor
+
+Open issues and pull requests for content suggestions and edits to this website.
+
+### Website maintainer - Ned, Brian
+
+Improve the content of this website and manage contributions.
 
 ### Jobs detective
 
@@ -112,9 +122,21 @@ We sometimes have prizes to raffle away. Someone needs to arrange for those dona
 
 ## At events
 
+### Table arranger
+
+A project night has tables organized by topic (beginners, web, data, hardware, etc.). These need to be set up, with power nearby, and signs indicating the topic.
+
 ### Video director
 
 Learn enough about video to record the presentation nights. Get the videos onto YouTube.
+
+### Name tag master - Ned
+
+Set up name tags and markers, and encourage attendees to fill one out. Maybe add prompts for areas of interest or employer.
+
+### Attendee greeter
+
+People showing up to an evening event could probably use a friendly face to greet them. Stand near the entrance and be friendly! Tell people how to get started. Make them feel welcome. This can be totally informal; if you warmly greet just one apprehensive attendee, you’ve made a difference!
 
 ### Beginner table captain
 
@@ -122,15 +144,11 @@ Be at project nights, and make sure people at the beginner tables are getting th
 
 ### Presentation night emcee - Ned
 
-A presentation night needs a few bits of time where someone stands at the front of the room and announces things: welcome people, remind them how it works, who is the sponsor, who is the next speaker, are we going to Meadhall, etc.
+A presentation night needs a few bits of time where someone stands at the front of the room and announces things: welcome people, remind them how it works, who is the sponsor, who is the next speaker, are we going to a bar, etc.
 
 ### Project night emcee - Ned
 
 A project night needs a little emceeing at the start: welcome people, explain how project night works, encourage people to announce what they are working on, introduce the sponsor, etc.
-
-### Event greeter
-
-People showing up to an evening event could probably use a friendly face to greet them. Stand near the entrance and be friendly! Tell people how to get started. Make them feel welcome. This can be a totally informal job. If you warmly greet just one apprehensive attendee, you’ve made a difference!
 
 ### Give-away give-awayer
 
