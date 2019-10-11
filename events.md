@@ -11,4 +11,6 @@ Boston Python runs four kinds of events:
 - **Python Study Group nights** feature presentations by members who are beginner-to-intermediate. Each presenter chooses a topic that they're unfamiliar with, researches it, and then teaches the group what they've learned.
 - [**Office hour**](officehour.md) is a weekly hour to drop in and ask anything on your mind.
 
-Specific events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be sure to get a spot.
+Specific events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be assured a spot.
+
+You can see our past event [here](past-events.md)
