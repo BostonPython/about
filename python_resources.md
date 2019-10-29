@@ -3,23 +3,28 @@ title: Python Resources
 sidebar_link: false
 ---
 
-It's often said that the best way to learn to write programs is to write programs. This page lists a number of places you can go for ideas about what programs to write next to develop your Python skills. Some sites offer Python-focused problems, which typically are aimed at helping you learn more about the language and how to use it more effectively. Other sites offer challenges that can be solved in any language. These are typically aimed at helping you develop your programming skills and become better at solving problems.
+It's often said that the best way to learn to write programs is to write programs. This page lists a number of places you can go for ideas about what programs to write to develop your Python skills. Some sites offer Python-focused problems, which typically are aimed at helping you learn more about the language and how to use it more effectively. Other sites offer challenges that can be solved in any language. These are typically aimed at helping you develop your programming skills and become better at solving problems.
+
+**NOTE**: This is a work-in-progress. The resources listed have only been lightly curated, and there are likely other great ones that should be on this list.
 
 ## Python-specific exercises
 
-- [exercism.io](https://exercism.io) is a multi-language learning platform with over 100 Python-specific exercises
-- [checkio.org](https://checkio.org/) offers Python-specific exercises. Problems are solved in an integrated editor on the site.
-- [codingbat](https://codingbat.com/python)
-- [edabit](https://edabit.com/challenges/python3)
-- [snakify](https://snakify.org/en/)
-- [practicity](https://practity.com/project/python/)
-- [practicepython.org](https://www.practicepython.org/)
-- [pynative.com](https://pynative.com/python-basic-exercise-for-beginners/)
-- [Python Morsels](https://www.pythonmorsels.com/)
-- [PyBites](https://codechalleng.es/bites/)
+- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>
+
+- [exercism](https://exercism.io/): <q>Code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python).
+
+- [edabit](https://edabit.com/challenges/python3): <q>Learn to code with interactive challenges</q>.
+
+- [Practice Python](https://www.practicepython.org/): 30+ Python excercises for beginners.
+
+- [CheckIO](https://checkio.org/): Coding games to improve your skills by solving engaging challenges and fun tasks using Python.
+
+- [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 
 ## Language-agnostic coding challenges
 
-- [adventofcode.com](adventofcode.com) is a Christmas-themed problem set that has offered 25 new programming challenges each December since 2015. For competitive solvers, there is a scoring system based on how fast you can solve the problem. For the rest of us, there is a collection of well-made problems that challenge your ability to reason algorithmically. Problems range from moderate to difficult.
-- [rosalind.info](rosalind.info) is a bit of a hodge-podge, offering a well-curated collection of problems introducing concepts in bioinformatics, a small set of introductory Python problems, and a collection of classical algorithms to implement.
-- [projecteuler.net](projecteuler.net) is great fun for the mathematically-minded. Over 650 problems which ramp up rather quickly in difficulty. If you've got a strong mathematical background you'll have a real advantage here. If not, you might well acquire one.
+- [Advent of Code](https://adventofcode.com/) is a Christmas-themed problem set that has offered 25 new programming challenges each December since 2015. For competitive solvers, there is a scoring system based on how fast you can solve the problem. For the rest of us, there is a collection of well-made problems that challenge your ability to reason algorithmically. Problems range from moderate to difficult.
+
+- [Rosalind](http://rosalind.info/problems/locations/) is a bit of a hodge-podge, offering a well-curated collection of problems introducing concepts in bioinformatics, a small set of introductory Python problems, and a collection of classical algorithms to implement.
+
+- [Project Euler](https://projecteuler.net/) is great fun for the mathematically-minded. Over 650 problems which ramp up rather quickly in difficulty. If you've got a strong mathematical background you'll have a real advantage here. If not, you might well acquire one.
