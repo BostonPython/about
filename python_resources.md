@@ -1,6 +1,7 @@
 ---
 title: Python Resources
-sidebar_link: false
+sidebar_link: true
+sidebar_sort_order: 600
 ---
 
 It's often said that the best way to learn to write programs is to write programs. This page lists a number of places you can go for ideas about what programs to write to develop your Python skills. Some sites offer Python-focused problems, which typically are aimed at helping you learn more about the language and how to use it more effectively. Other sites offer challenges that can be solved in any language. These are typically aimed at helping you develop your programming skills and become better at solving problems.
