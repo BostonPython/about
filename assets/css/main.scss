@@ -50,8 +50,12 @@ h2 {
     padding: 1rem;
 
     &:target {
-        background-color: rgba($sidebar-bg-color, 0.1);
-        transition: all 2s;
+        animation: fade-bg 3s;
+        @keyframes fade-bg
+        {
+            0%   { background: rgba($sidebar-bg-color, 0.2); }
+            100% { background: transparent; }
+        }
     }
 }
 
