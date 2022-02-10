@@ -13,4 +13,4 @@ Boston Python runs four kinds of events:
 
 Specific events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be assured a spot.
 
-You can see our past event [here](past-events.md)
+You can see our past event [here](past-events/index.md)
