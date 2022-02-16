@@ -149,6 +149,7 @@ if __name__ == "__main__":
             with open(filename, "w") as e:
                 output = Environment().from_string(MD).render(**mydict).replace('\xa0', '')
                 e.write(output)
+                print(f"Write {filename}")
             # add to existing_events data structure
             existing_events[year][d.date()].append((title, f"{d.strftime('%Y%m%d')}-{name}.md"))        
 

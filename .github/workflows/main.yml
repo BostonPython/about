@@ -39,8 +39,9 @@ jobs:
           
       - name: Update past-events index
         run: |-
+          ls -l past-events/index.md
           python add_meetup_events.py --rewrite
-          cat past-events/index.md
+          ls -l past-events/index.md
       
       - name: Commit and push if  past-events/index.md changed
         run: |-
