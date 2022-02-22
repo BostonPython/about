@@ -6,6 +6,8 @@ sidebar_link: false
 List of past events:
 
 - 2022
+    - [Exploring Data with Python](20220216-exploring-data-with-python.md) (02/16/2022)
+    - [Session 6 - Python Case Studies](20220209-session-6-python-case-studies.md) (02/09/2022)
     - [Online Collaboration and Project Night in Gather](20220127-online-collaboration-and-project-night-in-gather.md) (01/27/2022)
     - [Session 4 - Intro to Seaborn](20220119-session-4-intro-to-seaborn.md) (01/19/2022)
     - [Aesthetic Python - Neurons](20220113-aesthetic-python-neurons.md) (01/13/2022)
