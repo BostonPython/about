@@ -8,7 +8,7 @@ name: Update past-events page
 on:
   # Run on a schedule
   schedule:
-    - cron: "50 19 * * 1"
+    - cron: "0 1 * * 2"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
