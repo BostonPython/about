@@ -14,6 +14,9 @@ Once you've joined, there are a number of channels, depending on what you are lo
 
 - **#general**: Questions/ideas/links of general interest to the community. When in doubt, post here.
 - **#events**: Announcements/discussion of events that might be interesting to the group.
+- **#python-en-español**: Hablar de Python y las charlas en español
+- **#study-group**: Organization and discussion of Study Group events
+- **#book-discussion**: Organization and discussion of Book Discussion events
 - **#jobs**: For job postings. They must meet our [requirements](jobs.md).
 - **#for-hire**: Where you can announce your availability for work.
 - **#organizing**: Discussion about how Boston Python works, and making it work better.
