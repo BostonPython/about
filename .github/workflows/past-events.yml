@@ -1,4 +1,4 @@
-# This is a workflow which executes add_meetup_events.py every week to scrape the meeteup 
+# This is a workflow which executes add_meetup_events.py every week to scrape the meeteup
 # page: https://www.meetup.com/bostonpython/events/past/ to pull past events
 # and create it's own event page under past-events and linked to a past-events/index.md
 
@@ -25,32 +25,34 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Set up Python
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
           python-version: 3.8
-          
-      - uses: actions/cache@v1
+
+      - uses: actions/cache@v4
         name: Configure pip caching
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-            
+
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip wheel
           python -m pip install -r requirements.txt
-          
+
       - name: Update past-events index
         run: |-
           ls -l past-events/index.md
           python add_meetup_events.py --rewrite
           ls -l past-events/index.md
-      
+
       - name: Commit and push if  past-events/index.md changed
         run: |-
           git diff
