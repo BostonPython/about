@@ -11,7 +11,6 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 - Fay Shaw -- <fay@bostonpython.com>
 - James Gerity -- <james@bostonpython.com>
 - Jon Kiparsky -- <jon@bostonpython.com>
-- Jose Ramirez -- <jose@bostonpython.com>
 - Lewis Staples -- <lewis@bostonpython.com>
 - Sydney Runkle -- <sydney@bostonpython.com>
 - Wolf Richter -- <wolf@bostonpython.com>
