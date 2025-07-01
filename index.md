@@ -2,9 +2,21 @@
 title: Home
 ---
 
-Boston Python is a large and vibrant Python user group in the Boston area.  We
+Boston Python is a large and vibrant Python user group in the Boston area. We
 run [a number of kinds of events](events.md). Anyone interested in any aspect of the
 Python world is welcome!
+
+## 🎯 Next Events
+
+### 🌟 Summer Meetup - Kendall Rooftop Garden
+**📅 Wednesday, August 27th @ 6:30 PM**
+**📍 Kendall Rooftop Garden**
+
+Thanks to your enthusiastic responses, our casual summer meetup is happening! A relaxed evening to connect with fellow members of the Boston Python community. Whether you're new to Python or a seasoned dev, come hang out, chat, and enjoy the view!
+
+Feel free to bring a friend and spread the word. We're looking forward to seeing you there! 🌅
+
+---
 
 We use [Slack](slack.md) for online discussions.
 
@@ -15,6 +27,8 @@ If you are an employer, you can [announce jobs](jobs.md) and even
 
 We appreciate [our sponsors](our_sponsors.md)! Learn more about the organizations
 that support us.
+
+## 🤝 Connect With Us
 
 Other ways to connect with Boston Python people:
 
