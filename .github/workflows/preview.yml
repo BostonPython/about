@@ -11,28 +11,32 @@ on:
   #  branches:
   #    - master
 
-# contents: write is required for deploying the GitHub Pages if using the default GITHUB_TOKEN
-# pull-requests: write is required if you want to comment the preview page url to the pull request
 permissions:
-  pull-requests: write
-  contents: write
+  contents: read
 
-# recommended to set a concurrency group
 concurrency:
   group: preview-pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   run:
+    name: "Build PR preview"
     runs-on: ubuntu-latest
+    permissions:
+      # contents: write is required for deploying the GitHub Pages if using the default GITHUB_TOKEN
+      # pull-requests: write is required if you want to comment the preview page url to the pull request
+      pull-requests: write
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
 
       # run some build steps here and export the result to a directory
 
       - name: Preview Pages
-        uses: rajyan/preview-pages@v1
+        uses: rajyan/preview-pages@e76dc46e784379df4f2a5db53dbb0370fd9277bf # v1.3.28
         with:
           source-dir: .
           target-branch: master
