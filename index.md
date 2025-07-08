@@ -8,6 +8,27 @@ Python world is welcome!
 
 ## 🎯 Next Events
 
+### 🎤 Presentation Night - Python Careers
+**📅 Tuesday, July 29th @ 6:00-8:00 PM EDT**
+**📍 Microsoft New England Research and Development Center**
+**🏢 1 Memorial Drive #1 · Cambridge, MA**
+**⏰ RSVP by Monday, July 28 at 10:00 AM**
+
+Co-hosted by Boston Python and PyLadies Boston! Join us for an evening focused on Python careers with three fantastic speakers:
+
+**Navigating the Tech Industry: Embracing Your Unique Path to Success** - Marianne Ray
+Learn strategies for thriving in today's challenging tech job market through effective networking, overcoming imposter syndrome, and building authentic professional connections.
+
+**Going All-In: Landing Your First Python Job** - Bill Blanchard
+Strategies for landing your first Python development job, especially for those coming from non-traditional backgrounds in today's tightening market.
+
+**Trends in Technical Hiring** - Ben Hicks
+Insights from nearly thirty years of work as a technical recruiter.
+
+Pizza will be provided! Doors open at 6:00 PM, talks start at 6:30 PM.
+
+RSVP [here](https://www.meetup.com/bostonpython/events/308729682/?eventOrigin=rsvp_confirmation_suggested_events)
+
 ### 🌟 Summer Meetup - Kendall Rooftop Garden
 **📅 Wednesday, August 27th @ 6:30 PM**
 **📍 Kendall Rooftop Garden**
