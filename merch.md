@@ -18,5 +18,7 @@ Wearing the shirt helps promote the group, and is a great conversation starter.
 
 [![Snake Way for Ducklings T-Shirt](assets/images/swfd-shirt.jpg)][snakeway]
 
+Artwork by [Root Boots](https://www.rootboots.art/).
+
 [sculpture]: https://en.wikipedia.org/wiki/Make_Way_for_Ducklings#Cultural_effects
 [snakeway]: https://nedbat.threadless.com/designs/snake-way-for-ducklings
