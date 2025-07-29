@@ -2,6 +2,11 @@
 title: Home
 ---
 
+<p style="align: center; float: right; width: 25%">
+<a href="/merch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Buy a Shirt! »</b>
+<img width="200px" src="/assets/images/swfd-shirt.jpg" /></a>
+</p>
+
 Boston Python is a large and vibrant Python user group in the Boston area. We
 run [a number of kinds of events](events.md). Anyone interested in any aspect of the
 Python world is welcome!
