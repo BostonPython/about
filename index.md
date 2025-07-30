@@ -13,38 +13,17 @@ Python world is welcome!
 
 ## 🎯 Next Events
 
-### 🎤 [Presentation Night - Python Careers][preznite]
-
-**📅 Tuesday, July 29th @ 6:00-8:00 PM**\
-**📍 Microsoft NERD Center**\
-**🏢 1 Memorial Drive #1 · Cambridge, MA**\
-**⏰ [RSVP by Monday, July 28 at 10:00 AM][preznite]**
-
-Co-hosted by Boston Python and PyLadies Boston! Join us for an evening focused on Python careers with three fantastic speakers:
-
-**Navigating the Tech Industry: Embracing Your Unique Path to Success** — *Marianne Ray*\
-Learn strategies for thriving in today's challenging tech job market through effective networking, overcoming imposter syndrome, and building authentic professional connections.
-
-**Going All-In: Landing Your First Python Job** — *Bill Blanchard*\
-Strategies for landing your first Python development job, especially for those coming from non-traditional backgrounds in today's tightening market.
-
-**Trends in Technical Hiring** — *Ben Hicks*\
-Insights from nearly thirty years of work as a technical recruiter.
-
-Pizza will be provided! Doors open at 6:00 PM, talks start at 6:30 PM.
-
-[You must RSVP on meetup.com][preznite].
-
-[preznite]: https://www.meetup.com/bostonpython/events/308729682/
-
-### 🌟 Summer Social - Kendall Rooftop Garden
+### 🌟 [Summer Social - Kendall Rooftop Garden][preznite]
 
 **📅 Wednesday, August 27th @ 6:30 PM**\
-**📍 Kendall Rooftop Garden**
+**📍 Kendall Rooftop Garden**\
+**⏰ [RSVP by Tue, August 26 at 23:59 PM][preznite]**
 
 Thanks to your enthusiastic responses, our casual summer meetup is happening! A relaxed evening to connect with fellow members of the Boston Python community. Whether you're new to Python or a seasoned dev, come hang out, chat, and enjoy the view!
 
 Feel free to bring a friend and spread the word. We're looking forward to seeing you there! 🌅
+
+[preznite]: https://www.meetup.com/bostonpython/events/308729723/
 
 ---
 
