@@ -7,6 +7,7 @@ sidebar_sort_order: 999
 To reach the organizers, you can send an email to <leaders@bostonpython.com>.  Current organizers are:
 
 - Ned Batchelder -- <ned@bostonpython.com>
+- CJ Johanson -- <cj@bostonpython.com>
 - Emily Charles -- <emily@bostonpython.com>
 - Fay Shaw -- <fay@bostonpython.com>
 - James Gerity -- <james@bostonpython.com>
