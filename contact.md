@@ -13,7 +13,6 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 - James Gerity -- <james@bostonpython.com>
 - Jon Kiparsky -- <jon@bostonpython.com>
 - Lewis Staples -- <lewis@bostonpython.com>
-- Sydney Runkle -- <sydney@bostonpython.com>
 - Wolf Richter -- <wolf@bostonpython.com>
 
 We also have a [Slack workspace](slack.md) for online discussions with the entire community.
