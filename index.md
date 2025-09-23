@@ -11,6 +11,8 @@ Boston Python is a large and vibrant Python user group in the Boston area. We
 run [a number of kinds of events](events.md). Anyone interested in any aspect of the
 Python world is welcome!
 
+<!--
+
 ## 🎯 Next Events
 
 ### 🌟 [Summer Social - Kendall Rooftop Garden][preznite]
@@ -24,6 +26,8 @@ Thanks to your enthusiastic responses, our casual summer meetup is happening! A 
 Feel free to bring a friend and spread the word. We're looking forward to seeing you there! 🌅
 
 [preznite]: https://www.meetup.com/bostonpython/events/308729723/
+
+-->
 
 ---
 
