@@ -24,7 +24,7 @@ feel long. People lose interest if the pitch is too lengthy.
 
 When sponsoring **pizza**, a Boston Python organizer will purchase the pizza.
 You can pay by making a donation to the Python Software Foundation at
-<http://donate.bostonpython.com>.
+[donate.bostonpython.com](https://donate.bostonpython.com).
 
 The night of the event, we can provide table space for you to put out materials,
 or hand out swag if you want, but that is not expected or required.
