@@ -20,7 +20,7 @@ Once you've joined, there are a number of channels, depending on what you are lo
 - **#beginners**: For folks learning Python, or people who want to help them learn Python.
 - Specific areas of interest, such as **#web**, **#data**, **#science**, etc.
 
-If you need administrative or moderation help, send a direct message to **@bhrutledge** and/or **@nedbat**.
+If you need administrative or moderation help, send a direct message to **@nedbat**.
 
 To learn how to use Slack, refer to their [Help Center](https://get.slack.help/hc/en-us) guides, such as:
 
