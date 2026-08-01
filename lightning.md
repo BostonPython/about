@@ -2,7 +2,7 @@
 title: Lightning Talks
 ---
 
-Lightning talks are 5–10 minutes long, on any topic of interest to other Python people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
+Lightning talks are 5–10 minutes long, on any topic of interest to other Python people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in. We are looking for peer-to-peer talks for Python people. No sales pitches, please.
 
 
 [Propose a lightning talk](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit)
@@ -21,7 +21,7 @@ Lightning talks are 5–10 minutes long, on any topic of interest to other Pytho
     - How I learned to do X in Python
     - This One Weird Python Trick
 
-Things people say when they think they can't do a lightning talk:
+Wrong excuses people use when they think they can't do a lightning talk:
 
 * *"Everyone already knows THING_X"*
     - No, they don't.
