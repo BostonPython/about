@@ -26,6 +26,7 @@ $large-font-size: 1.15rem !default;
 img {
     display: inline;
     margin-bottom: -.25em;
+    max-width: 100%;
     &.left-icon {
         width: 24px;
         height: 24px;
