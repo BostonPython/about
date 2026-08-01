@@ -4,7 +4,10 @@ title: Lightning Talks
 
 Lightning talks are 5–10 minutes long, on any topic of interest to other Python people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
 
-➡️  **[Propose a lightning talk](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit)** ⬅️
+
+[Propose a lightning talk](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit)
+{: class="button-para"}
+
 
 * You know that thing at work that everyone comes to you for help with? **Talk about that!**
 
@@ -47,7 +50,10 @@ Things people say when they think they can't do a lightning talk:
 
 **Seriously**: anyone can do a lightning talk.
 
-➡️  **[Propose a lightning talk](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit)** ⬅️
+
+[Propose a lightning talk](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit)
+{: class="button-para"}
+
 
 If you need more encouragement, watch this lightning talk about brewing tea (hint: it's not really about brewing tea):
 

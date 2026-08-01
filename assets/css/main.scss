@@ -74,6 +74,21 @@ footer.content {
     ul {
         padding-left: 1em;
     }
+    .button-para {
+        margin: 2em 1em;
+        a {
+            text-decoration: none;
+            padding: 0.65em 1.3rem;
+            color: white;
+            background-color: $link-color;
+            border-radius: 0.4rem;
+            font-weight: bold;
+
+            &:hover {
+                background-color: darken($link-color, 10%);
+            }
+        }
+    }
 }
 
 nav#sidebar-nav-links .active {
