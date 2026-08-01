@@ -71,6 +71,9 @@ footer.content {
 
 .content {
     max-width: 32em;
+    ul {
+        padding-left: 1em;
+    }
 }
 
 nav#sidebar-nav-links .active {
