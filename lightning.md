@@ -18,12 +18,12 @@ Lightning talks are 5–10 minutes long, on any topic of interest to other Pytho
 * Other ideas:
     - How I contributed to open source
     - My best mistake
-    - How I learned to do X in Python
+    - How I learned to do XYZ in Python
     - This One Weird Python Trick
 
 Wrong excuses people use when they think they can't do a lightning talk:
 
-* *"Everyone already knows THING_X"*
+* *"Everyone already knows XYZ"*
     - No, they don't.
     - They think they do, but they still have more to learn.
     - Even if they do, they will be interested to hear another person's explanation.
