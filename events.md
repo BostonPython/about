@@ -14,7 +14,7 @@ Boston Python runs a number of different events:
 - **Office hour** is a weekly hour to drop in and ask anything on your mind: [Office hour](officehour.md).
 - **Book discussions** choose a Python book and work through it chapter by chapter as a group.
 - **Python en Español** are Spanish-language presentations.
-- **Social events** happen sporadically to bring people together casually.
+- **Social events** happen sporadically to bring people together casually. Often we meet at the [Urban Park Roof Garden](up_roof_garden.md) in Kendall Square.
 
 Most events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be sure to get a spot.
 
