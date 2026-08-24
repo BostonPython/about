@@ -24,7 +24,7 @@ Examples of behaviors that contribute to creating a positive environment include
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behavior by participants during an event include:
 
 - Harassment of event participants in any form
 - Deliberate intimidation, stalking, or following
@@ -38,9 +38,11 @@ Examples of unacceptable behavior by participants include:
 - Sustained disruption of talks or other events
 - Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
-Participants asked to stop any inappropriate behavior are expected to comply immediately.
+In addition to the above, persistent unwelcome social contact following an event, whether in person or online, may constitute a violation of the code of conduct.
 
-If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
+Participants asked to stop any inappropriate behavior are expected to comply immediately and to maintain compliance going forward. 
+
+If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender, expulsion from the event with no refund. Repeated or egregious violations may result in the offender being temporarily or permanently banned from Boston Python events. 
 
 Thank you for helping make Boston Python a welcoming, friendly group for all.
 
