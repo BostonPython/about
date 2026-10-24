@@ -20,6 +20,7 @@ We've also had other styles of events in the past, and would be glad to do them 
 - **Python en Español** are Spanish-language presentations.
 
 Most events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be sure to get a spot.
+Sometimes we will require [full names when registering](fullname.md) for an event.
 
 We're always interested in ideas for **new events**!  Read about how to start one at [Planning an event](planning.md).
 
