@@ -2,8 +2,8 @@
 title: Home
 ---
 
-<p style="align: center; float: right; width: 25%">
-<a href="/merch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Buy a Shirt! »</b>
+<p style="text-align: center; float: right; width: 25%; border: 1px solid #eee; border-radius: .25em; padding: .25em; margin-left: 1em">
+<a href="/merch"><b>Buy a Shirt!</b>
 <img width="200px" src="/assets/images/swfd-shirt.jpg" /></a>
 </p>
 
@@ -27,9 +27,10 @@ Feel free to bring a friend and spread the word. We're looking forward to seeing
 
 [preznite]: https://www.meetup.com/bostonpython/events/308729723/
 
+- - -  (make this a real rule by removing spaces if needed)
+-
 -->
 
----
 
 ## 🤝 Connect With Us
 
@@ -51,6 +52,8 @@ Other ways to connect with Boston Python people:
 
 [![Slack](assets/images/Slack_Mark_Web.png){: .left-icon}Slack](slack)
 
+<!--
 [![YouTube](assets/images/youtube_social_icon_white.png){: .left-icon}YouTube](https://www.youtube.com/user/bostonpython/videos)
+-->
 
 [![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
