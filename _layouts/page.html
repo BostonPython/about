@@ -13,8 +13,8 @@ layout: default
 <footer class="content">
   <p id="edit-page" class="editme">
     <strong>Have a suggestion to improve this page?</strong>
-    <!-- Note: this link is wrong if testing locally, but is right on GitHub. -->
-    <br />{% github_edit_link "Edit this page on GitHub" %}
+    <!-- Not using github_edit_link: jekyll-github-metadata 2.16.1 crashes on Ruby 3.4. -->
+    <br /><a href="https://github.com/BostonPython/about/edit/master/{{ page.path }}">Edit this page on GitHub</a>
     and submit a pull request!
     <br />Or, <a href="https://github.com/BostonPython/about/issues/new">submit an issue</a> with your suggestion.
   </p>
