@@ -2,11 +2,9 @@
 title: Office Hour
 redirect_from:
     - /officehours
-sidebar_link: true
-sidebar_sort_order: 250
 ---
 
-Boston Python holds a weekly Zoom office hour on Mondays at noon.
+Boston Python holds a Zoom office hour every other week on Mondays at noon Eastern time.
 
 This is an unstructured time to drop in to ask questions or just chat. There is no set topic, anything goes: Python, Boston Python, specialized technical topics, adjacent technologies, it's all good.  Any expertise level is fine!
 
